@@ -29,7 +29,7 @@
 20        android:theme="@style/AppTheme" >
 20-->/Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:11:9-40
 21        <activity android:name="com.example.swoosh.leauge" />
-21-->/Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:12:9-53
+21-->/Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:12:9-44
 21-->/Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:12:19-41
 22        <activity android:name="com.example.swoosh.MainActivity" >
 22-->/Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:13:9-19:20

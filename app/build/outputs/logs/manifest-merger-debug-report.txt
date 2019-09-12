@@ -66,7 +66,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/irab
 	android:theme
 		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.swoosh.leauge
-ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:12:9-53
+ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:12:9-44
 	android:name
 		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:12:19-41
 activity#com.example.swoosh.MainActivity
