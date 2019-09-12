@@ -1,0 +1,4 @@
+#Wed Sep 11 20:48:51 EDT 2019
+base.0=/Users/irabob/Desktop/Swoosh/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
