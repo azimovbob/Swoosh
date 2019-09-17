@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/irabob/.gradle/caches/transforms-2/files-2.1/2c5f1a89f5e82fe94800d75fccec9ea0/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.1.0] /Users/irabob/.gradle/caches/transforms-2/files-2.1/3c30c908b31bd1c174bc17fac9f6ba24/core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/irabob/.gradle/caches/transforms-2/files-2.1/33c5eb94e463e2bece272f182f9f501f/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
@@ -26,25 +26,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/irabob/.gradle/cac
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/irabob/.gradle/caches/transforms-2/files-2.1/047abab9cecf99dade3c3dc8dca3db38/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/irabob/.gradle/caches/transforms-2/files-2.1/1cf3891be121f478c9d1c45229f2cc2a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/irabob/.gradle/caches/transforms-2/files-2.1/c9e29d872e4315f1b221e0719e1a861c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml
-		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-26:12
+		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml
-		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-26:12
+		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:5:5-26:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/irabob/.gradle/caches/transforms-2/files-2.1/33c5eb94e463e2bece272f182f9f501f/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/irabob/.gradle/caches/transforms-2/files-2.1/33c5eb94e463e2bece272f182f9f501f/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.1.0] /Users/irabob/.gradle/caches/transforms-2/files-2.1/b038a98c3dbcd7efb11a5da54422ed14/core-1.1.0/AndroidManifest.xml:24:5-89
@@ -65,30 +65,38 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/irab
 		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.example.swoosh.leauge
-ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:12:9-44
+activity#com.example.swoosh.SkillActivity
+ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:12:9-60
 	android:name
-		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:12:19-41
-activity#com.example.swoosh.MainActivity
-ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:13:9-19:20
+		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:12:19-48
+activity#com.example.swoosh.BaseActivity
+ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:13:9-50
 	android:name
 		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:13:19-47
+activity#com.example.swoosh.leauge
+ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:14:19-41
+activity#com.example.swoosh.MainActivity
+ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:15:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:19:27-74
 meta-data#preloaded_fonts
-ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:21:9-23:57
+ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:23:9-25:57
 	android:resource
-		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:23:13-54
+		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:25:13-54
 	android:name
-		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:22:13-43
+		ADDED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml:24:13-43
 uses-sdk
 INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/irabob/Desktop/Swoosh/app/src/main/AndroidManifest.xml
